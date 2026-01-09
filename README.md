@@ -1,4 +1,4 @@
-# Data Science Assignment – ds_<candidate_name>
+# Data Science Assignment – ds_Lalin_Budula
 
 ## Overview
 This repository contains my submission for the Data Science assignment.  
@@ -16,7 +16,6 @@ All analysis and experiments have been performed using **Google Colab notebooks*
 - NumPy
 - Pandas
 - Matplotlib / Seaborn
-- Scikit-learn (if applicable)
 
 ---
 
@@ -25,7 +24,7 @@ All analysis and experiments have been performed using **Google Colab notebooks*
 2. Exploratory Data Analysis (EDA) and visualization
 3. Feature engineering and modeling (if applicable)
 4. Outputs and intermediate datasets saved in respective folders
-5. Final insights summarized in `ds_report.pdf`
+5. Final insights summarized in `ds_report.ppt`
 
 ---
 
@@ -37,5 +36,5 @@ All analysis and experiments have been performed using **Google Colab notebooks*
 ---
 
 ## Author
-**<Candidate Name>**
+**Lalin Budula**
 
