@@ -1,4 +1,4 @@
-# Data Science Assignment – ds_Lalin_Budula
+# Market Sentiment Analysis–ds_Lalin_Budula
 
 ## Overview
 This repository contains my submission for the Data Science assignment.  
